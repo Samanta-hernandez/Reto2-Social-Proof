@@ -47,4 +47,7 @@ h1{
         background-image: none;
         background-image: url(images/bg-pattern-top-mobile.svg);
     }
+    .texto{
+        text-align: center;
+    }
 }
